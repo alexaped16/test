@@ -1,0 +1,11 @@
+.btn {
+    font-family: $primaryfont;
+    font-weight: 500;
+    padding: bs-spacer(2);
+    white-space: normal;
+  }
+  
+  .btn-link:hover,
+  .btn-link:focus {
+    text-decoration: none;
+  }
